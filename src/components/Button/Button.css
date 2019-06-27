@@ -1,0 +1,15 @@
+a.button{
+    background: rgb(74, 133, 241);
+    color: #fff;
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    transition: all 0.4s;
+    display: inline-block;
+    line-height: 40px;
+    
+}
+
+a.button:hover{
+    background: rgb(66, 104, 177);
+}
