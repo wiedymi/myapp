@@ -1,0 +1,12 @@
+.header h1.center {
+    text-align: center;
+    color: #fff;
+    line-height: 60px;
+}
+
+.header{
+    width: 100%;
+    background: #4a85f1;
+    margin: 0;
+    height: 60px;
+}
